@@ -1,6 +1,6 @@
 {
   "name": "PWA",
-  "short_name": "HackePWArWeb",
+  "short_name": "PWA",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#1E90FF",
